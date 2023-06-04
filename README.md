@@ -34,6 +34,11 @@ Seja muito bem vindo ao meu Github!
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div><br>
 
+### 🔨 Frameworks & Libraries
+<div class="FL" style "display: inline_block"><br>
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div><br>
+
 ## Contato
 
 - Email: nicolas.janandis@gmail.com
